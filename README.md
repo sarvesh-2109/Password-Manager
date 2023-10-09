@@ -7,8 +7,7 @@ MyPass is a simple password manager application built using Python and Tkinter. 
 ## Output
 
 
-Uploading MyPass.mp4…
-
+https://github.com/sarvesh-2109/Password-Manager/assets/113255836/ccb23d53-990f-490c-8703-cc6259b2c932
 
 
 
